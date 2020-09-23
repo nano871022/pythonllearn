@@ -1,0 +1,2 @@
+class ValueNegativeError(Exception):
+  pass

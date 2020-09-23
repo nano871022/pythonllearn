@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "A pure python3 version of ICMP ping implementation using raw socket."
+name = "ping3"
+optional = false
+python-versions = ">=3"
+version = "2.6.6"
+
+[metadata]
+content-hash = "d4e155992d5271970439c8fa0ad7d8c326b656f9780e4c0fa9141047b7194a9f"
+python-versions = "^3.8"
+
+[metadata.files]
+ping3 = [
+    {file = "ping3-2.6.6-py3-none-any.whl", hash = "sha256:940305945ae9cd8551a5505957dd87abe664d81959063bccb91242185233db75"},
+    {file = "ping3-2.6.6.tar.gz", hash = "sha256:5f398f818fea9af615fdc4bd6e08b4654a04772bafbe69ca0cbbd346a29122a6"},
+]
